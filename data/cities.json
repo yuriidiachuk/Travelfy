@@ -1,0 +1,196 @@
+{
+  "cities": [
+    {
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-11-21T15:54:27.296Z",
+      "notes": "Amazing city with rich architecture",
+      "position": {
+        "lat": "48.20271028869975",
+        "lng": "16.358642578125004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-11-21T15:55:11.142Z",
+      "notes": "Beautiful big city with old architecture",
+      "position": {
+        "lat": "50.0923932109388",
+        "lng": "14.447021484375002"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-21T15:56:30.737Z",
+      "notes": "One love!!!😍",
+      "position": {
+        "lat": "41.38196080315541",
+        "lng": "2.1766662597656254"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Rethymno",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2024-11-21T15:57:53.273Z",
+      "notes": "Amazin old city, with great vibe, and beautifull views.",
+      "position": {
+        "lat": "35.35321610123823",
+        "lng": "24.463806152343754"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Lloret de Mar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-24T08:38:35.517Z",
+      "notes": "Amazing views",
+      "position": {
+        "lat": "41.69434944915979",
+        "lng": "2.8413391113281254"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-11-24T08:39:05.725Z",
+      "notes": "Contraversion city",
+      "position": {
+        "lat": "52.535304074659265",
+        "lng": "13.513183593750002"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Dresden",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-11-24T08:40:07.895Z",
+      "notes": "Great architecture",
+      "position": {
+        "lat": "51.04448208184029",
+        "lng": "13.730163574218752"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-11-24T08:40:53.659Z",
+      "notes": "One of the best cities in the world",
+      "position": {
+        "lat": "52.36199643999562",
+        "lng": "4.861450195312501"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "The Hague",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2024-11-24T08:41:24.796Z",
+      "notes": "Very comfortable city",
+      "position": {
+        "lat": "52.07581762913233",
+        "lng": "4.313507080078126"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Krakow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-11-24T11:44:19.480Z",
+      "notes": "",
+      "position": {
+        "lat": "50.10652205100554",
+        "lng": "19.930593831367272"
+      },
+      "id": 11
+    },
+    {
+      "cityName": "Czestochowa",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-11-24T11:44:24.949Z",
+      "notes": "",
+      "position": {
+        "lat": "50.854751680473136",
+        "lng": "19.09532494641118"
+      },
+      "id": 12
+    },
+    {
+      "cityName": "Wroclaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-11-24T11:44:27.596Z",
+      "notes": "",
+      "position": {
+        "lat": "51.17268407691767",
+        "lng": "16.985280957109982"
+      },
+      "id": 13
+    },
+    {
+      "cityName": "Opole",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-11-24T11:44:37.384Z",
+      "notes": "",
+      "position": {
+        "lat": "50.659994201779256",
+        "lng": "17.919016198582963"
+      },
+      "id": 14
+    },
+    {
+      "cityName": "Gdansk",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-11-24T11:44:48.068Z",
+      "notes": "",
+      "position": {
+        "lat": "54.34852016592835",
+        "lng": "18.644273137999896"
+      },
+      "id": 15
+    },
+    {
+      "cityName": "Salou",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-24T11:46:10.279Z",
+      "notes": "",
+      "position": {
+        "lat": "41.07317656282302",
+        "lng": "1.1412880151937757"
+      },
+      "id": 16
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-14T10:18:33.000Z",
+      "notes": "svlsjnsjl ",
+      "position": {
+        "lat": "48.85206549830759",
+        "lng": "2.3497009277343754"
+      },
+      "id": 17
+    }
+  ]
+}
