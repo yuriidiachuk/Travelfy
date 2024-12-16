@@ -1,9 +1,9 @@
 To use the app, follow these steps:
-1. in terminal write npm run dev
-2. in second terminal write npm run server
-3. to log in account use 
-Email Adress: user@1.com
-Password: 12345
+1. In terminal write npm run dev
+2. In second terminal write npm run server
+3. To log in to account use 
+    Email Adress: user@1.com
+    Password: 12345
 
 Have fun;)
 
