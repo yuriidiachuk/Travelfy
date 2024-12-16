@@ -1,3 +1,12 @@
+To use the app, follow these steps:
+1. in terminal write npm run dev
+2. in second terminal write npm run server
+3. to log in account use 
+Email Adress: user@1.com
+Password: 12345
+
+Have fun;)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
